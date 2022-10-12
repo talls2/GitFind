@@ -1,10 +1,10 @@
 import React from "react";
 import "./styles.css";
 
-export default function Header() {
+export function Header() {
   return (
     <header>
-      <h1>Heaaaaaaaaaaaaaaaaaaaaa</h1>
+      <h1>GitFind</h1>
     </header>
   );
 }
