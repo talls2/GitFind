@@ -11,24 +11,26 @@
   left: -25%;
 }
 
-.info{
+.info {
   width: 60%;
   margin-right: 90px;
   margin-top: 40px;
   color: #fff;
 }
 
-input{
+input {
   border: 1px solid #999999;
   border-radius: 22px;
   background: transparent;
   font-size: 18px;
   padding: 10px;
   min-width: 250px;
+  width: 80%;
   margin-right: 12px;
+  color: #fff;
 }
 
-button{
+button {
   border: 1px solid #999999;
   border-radius: 22px;
   background: #2d333b;
@@ -38,12 +40,12 @@ button{
   margin-right: 12px;
 }
 
-.perfil{
+.perfil {
   display: flex;
   margin: 40px 0;
 }
 
-.profile{
+.profile {
   width: 120px;
   height: 120px;
   border-radius: 60px;
@@ -51,21 +53,28 @@ button{
   margin-right: 32px;
 }
 
-.perfil h3{
+.perfil h3 {
   color: #999999;
   font-size: 24px;
   margin: 0;
 }
 
-.perfil span{
+.perfil span {
   display: block;
   color: #999999;
   font-size: 12px;
   margin: 0;
 }
 
-.perfil p{
+.perfil p {
   color: #999999;
   font-size: 12px;
   margin: 20px 0 0 0;
+}
+
+.repositorio {
+  font-size: 32px;
+  color: #fff;
+  margin: 12px 0;
+  text-align: center;
 }
